@@ -9,3 +9,4 @@ int main(){
     else {
         printf("n은 홀수\n");
     }
+}

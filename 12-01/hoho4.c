@@ -9,6 +9,6 @@ int mian(){
     printf("===후치 증가 연산===\n");
     a++;
     b = a;
-    pirntf(" a : %d\n", a};
+    pirntf(" a : %d\n", a);
     printf(" b : %d\n", b);
-    }
+}

@@ -10,3 +10,4 @@ int main(){
    printf("%d\n", p) ;
    printf("%d\n", q) ;
    printf("%d\n", r) ;
+}
